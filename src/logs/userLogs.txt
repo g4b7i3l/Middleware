@@ -1,0 +1,6 @@
+El usuario ingresò a la ruta/
+El usuario ingresò a la ruta/Admin
+El usuario ingresò a la ruta/admin?user=Ada
+El usuario ingresò a la ruta/admin?user=Greta
+El usuario ingresò a la ruta/admin?user=Vim
+El usuario ingresò a la ruta/admin?user=Tim
